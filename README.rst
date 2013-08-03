@@ -26,7 +26,7 @@ Each document is referenced by a number, called the docID.
 Executing queries
 =================
 
-You have two functions you can call (in client_thread.cpp) :
+There are two functions you can call (in client_thread.cpp) :
 
 - query_top, that will retrieve the docID of the N documents
   that have the best relevance for the entered query.
