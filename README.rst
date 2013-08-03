@@ -12,7 +12,7 @@ It is used for one of my personnal project.
 I have tested it by indexing the complete version of the
 French Wikipedia, and it works like a charm.
 
-It is a daemon, that will start a server.
+It is a daemon that will start a server.
 Once you connect to it, you can add new documents,
 and execute queries among the indexed documents.
 
