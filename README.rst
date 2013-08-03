@@ -46,7 +46,7 @@ AndNode(KwNode("spam"), KwNode("egg"))
 You can find the implementation of each node in query.cpp.
 
 The KwNode will read a file containing the list of documents
-containing a word, and return every entry.
+containing a word and return every entry.
 So, in a query tree, every leaf is a KwNode (or a DeltaStructNode,
 that reads the entries temporarily stored in memory when updating
 an index file).
