@@ -1,6 +1,7 @@
 This is a client implementation, to add documents and make queries.
 
 You can use it like this : ::
+
     from indexclient import IndexClient
     
     c = IndexClient()
