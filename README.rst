@@ -61,7 +61,7 @@ For every word, we store the list of the documents containing that
 word in one file.
 
 So, you can easily have a LOT of files.
-On my setup, I have now more that 50 millions of files.
+On my setup, I have now more than 50 millions of files.
 
 So, please use a filesystem able to handle the load and manage
 a lot of small files. BTRFS seems to works fine.
